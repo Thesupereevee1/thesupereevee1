@@ -1,13 +1,15 @@
 # Hi, I'm thesupereevee
 
-YouTuber, music creator, coder, and Minecraft player.  
-I like building things—code, songs, and Minecraft projects.
+YouTuber, game creator, coder, and Minecraft player.  
+I like building things—code, games, and Minecraft projects.
 
 ---
 
 ## Links
 - YouTube: https://www.youtube.com/@thesupereevee
 - Modrinth: https://modrinth.com/user/thesupereevee
+- Github: https://github.com/Thesupereevee1
+- Itch: https://thesupereevee.itch.io/
 
 ---
 
