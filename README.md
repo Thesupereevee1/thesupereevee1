@@ -14,17 +14,16 @@ I like building things-code, games, and Minecraft projects.
 ---
 
 ## Featured Projects
-- https://github.com/OploLabs/TowelWrap
-- https://github.com/Thesupereevee1/simple-shadows-shader
-- https://github.com/dinushkaherath/lyrics_slideshow
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Thesupereevee1&repo=OploLabs%2FTowelWrap&theme=dark_github_repocard)](https://github.com/OploLabs/TowelWrap) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Thesupereevee1&repo=simple-shadows-shader&theme=dark_github_repocard)](https://github.com/Thesupereevee1/simple-shadows-shader) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=oplolabs&repo=OploJDecom&theme=dark_github_repocard)](https://github.com/oplolabs/OploJDecom) 
 
 ---
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesupereevee1&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Thesupereevee1&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Thesupereevee1&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesupereevee1&layout=compact&theme=dark)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Thesupereevee1&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Thesupereevee1&langs_count=4&theme=dark_github)
 ---
 
 ## Current Focus
